@@ -1,5 +1,4 @@
-# 🏛️ Classical Chinese Translation System
-
+# 🏛️ Group7: Classical Chinese Translation System   闫博 陈思灵 彭诗淇 于宇谦
 High-precision Classical ↔ Modern Chinese translation powered by **Qwen3-Embedding-4B** and semantic retrieval.
 
 ## ✨ Features
