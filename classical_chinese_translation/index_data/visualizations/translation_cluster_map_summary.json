@@ -1,0 +1,30 @@
+{
+  "Cluster 0": {
+    "count": 15,
+    "mean_literal": 0.015904634532411206,
+    "mean_alignment": 0.7958536283107857,
+    "mean_cosine": 0.3953880230585734,
+    "mean_length_ratio": 11.504523809523812
+  },
+  "Cluster 1": {
+    "count": 510,
+    "mean_literal": 0.06974619068719752,
+    "mean_alignment": 0.8257463200809034,
+    "mean_cosine": 0.40272167728227726,
+    "mean_length_ratio": 1.098832132425587
+  },
+  "Cluster 2": {
+    "count": 71,
+    "mean_literal": 0.03861892118580865,
+    "mean_alignment": 0.820479313865296,
+    "mean_cosine": 0.4080199078774788,
+    "mean_length_ratio": 5.978953781190732
+  },
+  "Cluster 3": {
+    "count": 204,
+    "mean_literal": 0.05516413373542022,
+    "mean_alignment": 0.8258828683931637,
+    "mean_cosine": 0.4087817372352469,
+    "mean_length_ratio": 3.0264170175993272
+  }
+}

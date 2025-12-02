@@ -1,0 +1,13 @@
+{
+  "data_signature": "cefc6a1d6edf80a70d9cd749d481a195668d9b23f0e5b1afbb2fca1ceb2b3684",
+  "data_stats": {
+    "poem_count": 367,
+    "file_count": 1101,
+    "total_bytes": 2171961,
+    "latest_mtime": 1764629007
+  },
+  "pair_count": 15086,
+  "min_quality": 0.5,
+  "model": "Qwen/Qwen3-Embedding-4B",
+  "built_at": "2025-12-02T14:39:08.812247+00:00"
+}

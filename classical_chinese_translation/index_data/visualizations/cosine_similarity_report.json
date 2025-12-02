@@ -1,0 +1,209 @@
+{
+  "thresholds": {
+    "high_semantic": 0.82,
+    "low_literal": 0.15
+  },
+  "interpretive_highlights": [],
+  "literal_reference": [
+    {
+      "classical": "四月十日夜，乐天白：微之微之！",
+      "modern": "四月十日夜晚，乐天告白： 微之啊微之！",
+      "title": "与元微之书",
+      "cosine_similarity": 0.8134648203849792,
+      "literal_overlap": 0.7647058823529411,
+      "alignment_score": 0.8340425531914893,
+      "length_ratio": 1.2666666666666666
+    },
+    {
+      "classical": "二月三日，丕白。",
+      "modern": "二月三日，曹丕说。",
+      "title": "与吴质书",
+      "cosine_similarity": 0.7850431799888611,
+      "literal_overlap": 0.7,
+      "alignment_score": 0.8484848484848485,
+      "length_ratio": 1.125
+    }
+  ],
+  "challenging_pairs": [
+    {
+      "classical": "蜀石黄碝，水玉磊砢，磷磷烂烂，采色澔汗，藂积乎其中。",
+      "modern": "划定封地的疆界，也不是护守边境，而是防止诸侯放纵有越轨的行为。",
+      "title": "上林赋",
+      "cosine_similarity": 0.1644476354122162,
+      "literal_overlap": 0.0425531914893617,
+      "alignment_score": 0.8161616161616161,
+      "length_ratio": 1.1923076923076923
+    },
+    {
+      "classical": "鸿鹔鹄鸨，鴐鹅属玉，交精旋目，烦鹜庸渠，箴疵䴔卢，群浮乎其上，泛淫泛滥，随风澹淡，与波摇荡，奄薄水渚，唼喋菁藻，咀嚼菱藕。",
+      "modern": "划定封地的疆界，也不是护守边境，而是防止诸侯放纵有越轨的行为。",
+      "title": "上林赋",
+      "cosine_similarity": 0.19148607552051544,
+      "literal_overlap": 0.02631578947368421,
+      "alignment_score": 0.8161616161616161,
+      "length_ratio": 0.5081967213114754
+    },
+    {
+      "classical": "”客曰：“将为太子驯骐骥之马，驾飞軨之舆，乘牡骏之乘。",
+      "modern": "心力衰弱，听觉失灵，厌恶人声。",
+      "title": "七发",
+      "cosine_similarity": 0.19817766547203064,
+      "literal_overlap": 0.05714285714285714,
+      "alignment_score": 0.8168539325842696,
+      "length_ratio": 0.5555555555555556
+    },
+    {
+      "classical": "南山峨峨，岩陁甗崎，摧崣崛崎。",
+      "modern": "划定封地的疆界，也不是护守边境，而是防止诸侯放纵有越轨的行为。",
+      "title": "上林赋",
+      "cosine_similarity": 0.20012453198432922,
+      "literal_overlap": 0.05263157894736842,
+      "alignment_score": 0.8161616161616161,
+      "length_ratio": 2.066666666666667
+    },
+    {
+      "classical": "太子曰：“善！",
+      "modern": "耳目昏乱，喜怒无常。",
+      "title": "七发",
+      "cosine_similarity": 0.2139894962310791,
+      "literal_overlap": 0.0,
+      "alignment_score": 0.8168539325842696,
+      "length_ratio": 1.4285714285714286
+    },
+    {
+      "classical": "离靡广衍，应风披靡，吐芳扬烈，郁郁菲菲，众香发越，肸蚃布写，晻薆咇茀。",
+      "modern": "划定封地的疆界，也不是护守边境，而是防止诸侯放纵有越轨的行为。",
+      "title": "上林赋",
+      "cosine_similarity": 0.21544593572616577,
+      "literal_overlap": 0.057692307692307696,
+      "alignment_score": 0.8161616161616161,
+      "length_ratio": 0.8857142857142857
+    },
+    {
+      "classical": "溷章、白鹭，孔鸟、鶤鹄，鵷雏、鵁鶄，翠鬣紫缨。",
+      "modern": "常常心惊肉跳，睡不安宁。",
+      "title": "七发",
+      "cosine_similarity": 0.21741515398025513,
+      "literal_overlap": 0.07142857142857142,
+      "alignment_score": 0.8168539325842696,
+      "length_ratio": 0.5217391304347826
+    },
+    {
+      "classical": "于是乎鲛龙赤螭，䱭䲛渐离，鰅鳙鳍鮀，禺禺魼鳎，揵鳍掉尾，振鳞奋翼，潜处乎深岩，鱼鳖讙声，万物众伙。",
+      "modern": "若说让诸侯交纳贡品，并不是为图财物，而是要他们定期来朝陈述政事方面的情况。",
+      "title": "上林赋",
+      "cosine_similarity": 0.21957816183567047,
+      "literal_overlap": 0.05714285714285714,
+      "alignment_score": 0.8161616161616161,
+      "length_ratio": 0.7551020408163265
+    },
+    {
+      "classical": "汩乎混流，顺阿而下，赴隘狭之口，触穹石，激堆埼，沸乎暴怒，汹涌澎湃。",
+      "modern": "若说让诸侯交纳贡品，并不是为图财物，而是要他们定期来朝陈述政事方面的情况。",
+      "title": "上林赋",
+      "cosine_similarity": 0.22058852016925812,
+      "literal_overlap": 0.05,
+      "alignment_score": 0.8161616161616161,
+      "length_ratio": 1.088235294117647
+    },
+    {
+      "classical": "其兽则㺎旄貘犛，沈牛麈麋，赤首圜题，穷奇象犀。",
+      "modern": "划定封地的疆界，也不是护守边境，而是防止诸侯放纵有越轨的行为。",
+      "title": "上林赋",
+      "cosine_similarity": 0.22148367762565613,
+      "literal_overlap": 0.0425531914893617,
+      "alignment_score": 0.8161616161616161,
+      "length_ratio": 1.3478260869565217
+    },
+    {
+      "classical": "于是乎崇山矗矗，巃嵷崔巍，深林巨木，崭岩㟥嵳，九嵕嶻嶭。",
+      "modern": "划定封地的疆界，也不是护守边境，而是防止诸侯放纵有越轨的行为。",
+      "title": "上林赋",
+      "cosine_similarity": 0.2300116866827011,
+      "literal_overlap": 0.061224489795918366,
+      "alignment_score": 0.8161616161616161,
+      "length_ratio": 1.1071428571428572
+    },
+    {
+      "classical": "揜以绿蕙，被以江蓠，糅以蘪芜，杂以留夷。",
+      "modern": "划定封地的疆界，也不是护守边境，而是防止诸侯放纵有越轨的行为。",
+      "title": "上林赋",
+      "cosine_similarity": 0.23005586862564087,
+      "literal_overlap": 0.04878048780487805,
+      "alignment_score": 0.8161616161616161,
+      "length_ratio": 1.55
+    },
+    {
+      "classical": "悠远长怀，寂漻无声，肆乎永归。",
+      "modern": "若说让诸侯交纳贡品，并不是为图财物，而是要他们定期来朝陈述政事方面的情况。",
+      "title": "上林赋",
+      "cosine_similarity": 0.2309018075466156,
+      "literal_overlap": 0.0425531914893617,
+      "alignment_score": 0.8161616161616161,
+      "length_ratio": 2.466666666666667
+    },
+    {
+      "classical": "其始起也，洪淋淋焉，若白鹭之下翔。",
+      "modern": "”太子说：“谢谢你。",
+      "title": "七发",
+      "cosine_similarity": 0.23153918981552124,
+      "literal_overlap": 0.043478260869565216,
+      "alignment_score": 0.8168539325842696,
+      "length_ratio": 0.5882352941176471
+    },
+    {
+      "classical": "振溪通谷，蹇产沟渎，谽呀豁閕。",
+      "modern": "划定封地的疆界，也不是护守边境，而是防止诸侯放纵有越轨的行为。",
+      "title": "上林赋",
+      "cosine_similarity": 0.23314841091632843,
+      "literal_overlap": 0.05,
+      "alignment_score": 0.8161616161616161,
+      "length_ratio": 2.066666666666667
+    },
+    {
+      "classical": "驰波跳沫，汩濦漂疾。",
+      "modern": "若说让诸侯交纳贡品，并不是为图财物，而是要他们定期来朝陈述政事方面的情况。",
+      "title": "上林赋",
+      "cosine_similarity": 0.23318299651145935,
+      "literal_overlap": 0.046511627906976744,
+      "alignment_score": 0.8161616161616161,
+      "length_ratio": 3.7
+    },
+    {
+      "classical": "其旁作而奔起也，飘飘焉如轻车之勒兵。",
+      "modern": "”太子说：“谢谢你。",
+      "title": "七发",
+      "cosine_similarity": 0.23430505394935608,
+      "literal_overlap": 0.04,
+      "alignment_score": 0.8168539325842696,
+      "length_ratio": 0.5555555555555556
+    },
+    {
+      "classical": "批岩冲拥，奔扬滞沛。",
+      "modern": "若说让诸侯交纳贡品，并不是为图财物，而是要他们定期来朝陈述政事方面的情况。",
+      "title": "上林赋",
+      "cosine_similarity": 0.23666153848171234,
+      "literal_overlap": 0.046511627906976744,
+      "alignment_score": 0.8161616161616161,
+      "length_ratio": 3.7
+    },
+    {
+      "classical": "其波涌而云乱，扰扰焉如三军之腾装。",
+      "modern": "”太子说：“谢谢你。",
+      "title": "七发",
+      "cosine_similarity": 0.23778769373893738,
+      "literal_overlap": 0.041666666666666664,
+      "alignment_score": 0.8168539325842696,
+      "length_ratio": 0.5882352941176471
+    },
+    {
+      "classical": "布结缕，攒戾莎，揭车衡兰，槀本射干，茈姜蘘荷，葴持若荪，鲜支黄砾，蒋苎青薠，布濩闳泽，延曼太原。",
+      "modern": "划定封地的疆界，也不是护守边境，而是防止诸侯放纵有越轨的行为。",
+      "title": "上林赋",
+      "cosine_similarity": 0.24059277772903442,
+      "literal_overlap": 0.03076923076923077,
+      "alignment_score": 0.8161616161616161,
+      "length_ratio": 0.6458333333333334
+    }
+  ]
+}

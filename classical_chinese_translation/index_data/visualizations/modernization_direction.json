@@ -1,0 +1,97 @@
+{
+  "direction_consistency": 0.22324860095977783,
+  "mean_vector_norm": 0.24524381756782532,
+  "avg_length_ratio": 2.2185837934183894,
+  "anchor_examples": [
+    {
+      "classical": "穹隆云桡，宛潬胶盭。",
+      "modern": "若说让诸侯交纳贡品，并不是为图财物，而是要他们定期来朝陈述政事方面的情况。",
+      "transition_alignment": 0.43549656867980957,
+      "cosine_similarity": 0.2656692862510681,
+      "literal_overlap": 0.046511627906976744,
+      "alignment_score": 0.8161616161616161,
+      "length_ratio": 3.7
+    },
+    {
+      "classical": "瞀瞀然如飞蝇垂珠在眸子中者，动以万数，盖以苦学力文之所致，又自悲矣。",
+      "modern": "我既然接受了你的诗，又理解了你这番意图，也就常常想要回答来信，概略地谈谈诗歌的基本道理，并陈述自己做文章的意图，总起来写一封信，送到足下面前。",
+      "transition_alignment": 0.4200776517391205,
+      "cosine_similarity": 0.41097018122673035,
+      "literal_overlap": 0.07692307692307693,
+      "alignment_score": 0.8075471698113208,
+      "length_ratio": 2.088235294117647
+    },
+    {
+      "classical": "轊白鹿，捷狡兔，轶赤电，遗光耀。",
+      "modern": "这不能给你们诸侯国带来什么荣誉，相反倒会降低你们各自国君的声望，损坏自己的形象。",
+      "transition_alignment": 0.4166123867034912,
+      "cosine_similarity": 0.3419453799724579,
+      "literal_overlap": 0.043478260869565216,
+      "alignment_score": 0.8161616161616161,
+      "length_ratio": 2.5
+    },
+    {
+      "classical": "消遥乎襄羊，降集乎北纮，率乎直指，晻乎反乡。",
+      "modern": "这不能给你们诸侯国带来什么荣誉，相反倒会降低你们各自国君的声望，损坏自己的形象。",
+      "transition_alignment": 0.4159250259399414,
+      "cosine_similarity": 0.2928343415260315,
+      "literal_overlap": 0.0851063829787234,
+      "alignment_score": 0.8161616161616161,
+      "length_ratio": 1.8181818181818181
+    },
+    {
+      "classical": "不可自见好章甫，强越人以文冕也；",
+      "modern": "我性格直爽，心胸狭窄，对很多事情不能忍受，只是偶然跟您交上朋友罢了。",
+      "transition_alignment": 0.40834587812423706,
+      "cosine_similarity": 0.4072924554347992,
+      "literal_overlap": 0.043478260869565216,
+      "alignment_score": 0.8179487179487179,
+      "length_ratio": 2.125
+    },
+    {
+      "classical": "临坻注壑，瀺灂霣坠，沈沈隐隐，砰磅訇礚，潏潏淈淈，湁潗鼎沸。",
+      "modern": "若说让诸侯交纳贡品，并不是为图财物，而是要他们定期来朝陈述政事方面的情况。",
+      "transition_alignment": 0.40386348962783813,
+      "cosine_similarity": 0.26484277844429016,
+      "literal_overlap": 0.03636363636363636,
+      "alignment_score": 0.8161616161616161,
+      "length_ratio": 1.2333333333333334
+    },
+    {
+      "classical": "椎蜚廉，弄獬豸，格虾蛤，鋋猛氏，羂騕褭，射封豕。",
+      "modern": "这不能给你们诸侯国带来什么荣誉，相反倒会降低你们各自国君的声望，损坏自己的形象。",
+      "transition_alignment": 0.4012502431869507,
+      "cosine_similarity": 0.352510929107666,
+      "literal_overlap": 0.038461538461538464,
+      "alignment_score": 0.8161616161616161,
+      "length_ratio": 1.6666666666666667
+    },
+    {
+      "classical": "汩乘流而下降兮，或不知其所止。",
+      "modern": "太子是否有这种症状呢？",
+      "transition_alignment": 0.40084177255630493,
+      "cosine_similarity": 0.3481500744819641,
+      "literal_overlap": 0.0,
+      "alignment_score": 0.8168539325842696,
+      "length_ratio": 0.7333333333333333
+    },
+    {
+      "classical": "嗟夫！",
+      "modern": "你看这封信时，我已经成为阴间一鬼。",
+      "transition_alignment": 0.3976818919181824,
+      "cosine_similarity": 0.49862170219421387,
+      "literal_overlap": 0.0,
+      "alignment_score": 0.8290322580645161,
+      "length_ratio": 5.666666666666667
+    },
+    {
+      "classical": "游山泽，观鱼鸟，心甚乐之；",
+      "modern": "我性格直爽，心胸狭窄，对很多事情不能忍受，只是偶然跟您交上朋友罢了。",
+      "transition_alignment": 0.39731913805007935,
+      "cosine_similarity": 0.379493772983551,
+      "literal_overlap": 0.047619047619047616,
+      "alignment_score": 0.8179487179487179,
+      "length_ratio": 2.6153846153846154
+    }
+  ]
+}
